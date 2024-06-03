@@ -11,3 +11,6 @@
 
 다크테마로 바뀐다!
 
+![image](https://github.com/jung-chaewon/digtal-clock-thema/assets/131144717/d7f5e07d-0722-4c7b-804b-1df9ae57dc40)
+
+다시 이버튼을 누르면 돌아간다.
